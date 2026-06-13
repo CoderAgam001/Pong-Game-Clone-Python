@@ -1,9 +1,5 @@
-# Created by Agamdeep Singh / CodeWithAgam
-# Youtube: CodeWithAgam
-# Github: CodeWithAgam
-# Instagram: @coderagam001 / @codewithagam
-# Twitter: @CoderAgam001
-# Linkdin: Agamdeep Singh
+# Created by Agamdeep Singh
+# Portfolio: https://linktr.ee/coderagam001
 
 
 from turtle import Screen
