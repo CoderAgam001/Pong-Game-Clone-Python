@@ -51,6 +51,10 @@ while game_on:
     if ball.xcor() < -380:
         ball.reset()
         scoreboard.point_r()
+        
+    if KeyboardInterrupt:
+        game_on = False
+        break
 
 
 s.exitonclick()
